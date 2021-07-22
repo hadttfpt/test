@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ha test nha
+=======
+ha
+>>>>>>> test
